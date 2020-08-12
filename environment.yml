@@ -1,0 +1,15 @@
+name: swbc2020
+channels:
+  - defaults
+dependencies:
+  - python
+  - numpy
+  - matplotlib
+  - cartopy
+  - pandas
+  - netcdf4
+  - xarray
+  - dask
+  - bottleneck
+prefix: /Users/beaird/anaconda3/envs/swbc2020
+
