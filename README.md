@@ -13,7 +13,7 @@ and the official python tutorial: https://docs.python.org/3/tutorial/
 
 And Ryan Abernathys open book, which we will be looking at a lot! https://earth-env-data-science.github.io/lectures/core_python/python_fundamentals.html
 
-I've made some slight adaptations here and there, but the credit goes to those organizations. I hope I am using this correctly under the licences:
+I've made some slight adaptations here and there, but the credit goes to those organizations. Any modifications I made were my own and not endorsed or supported by the people who created the original content.  I hope I am using this correctly under the [Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0) license] (https://creativecommons.org/licenses/by/4.0/):
 
 https://earth-env-data-science.github.io/LICENSE.html
 
