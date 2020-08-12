@@ -16,5 +16,7 @@ And Ryan Abernathys open book, which we will be looking at a lot! https://earth-
 I've made some slight adaptations here and there, but the credit goes to those organizations. I hope I am using this correctly under the licences:
 
 https://earth-env-data-science.github.io/LICENSE.html
+
+
 https://swcarpentry.github.io/python-novice-inflammation/LICENSE.html
 
