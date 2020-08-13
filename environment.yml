@@ -3,6 +3,7 @@ channels:
   - defaults
 dependencies:
   - python
+  - jupyterlab
   - numpy
   - matplotlib
   - cartopy
