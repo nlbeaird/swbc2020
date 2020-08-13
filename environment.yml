@@ -6,6 +6,7 @@ dependencies:
   - jupyterlab
   - numpy
   - matplotlib
+  - jupyter-offlinenotebook
   - cartopy
   - pandas
   - netcdf4
