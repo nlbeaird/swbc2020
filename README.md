@@ -3,9 +3,9 @@
 This repo is a backup system for the summer 2020 'software bootcamp'. I'm hoping that students can open these notebooks using binder if there local machine runs into issues. My intention is to take this down after the course ends. 
 
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/nlbeaird/swbc2020/master?urlpath=lab)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/nlbeaird/swbc2020/master/lab)
 
-share link: https://mybinder.org/v2/gh/nlbeaird/swbc2020/master?urlpath=lab
+share link: https://mybinder.org/v2/gh/nlbeaird/swbc2020/master/lab
 
 
 
